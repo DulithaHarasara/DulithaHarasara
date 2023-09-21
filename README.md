@@ -8,13 +8,7 @@
 📫 How to reach me <a href = 'dulithaharasara@gmail.com'>dulithaharasara@gmail.com</a>
 <br>
 
-
-
 ![giphy (1)](https://github.com/DulithaHarasara/DulithaHarasara/assets/129366975/52fd5d2f-0f25-4317-915b-befd12f76160)
-
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
