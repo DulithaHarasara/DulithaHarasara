@@ -8,8 +8,6 @@
 📫 How to reach me <a href = 'dulithaharasara@gmail.com'>dulithaharasara@gmail.com</a>
 <br>
 
-![giphy (1)](https://github.com/DulithaHarasara/DulithaHarasara/assets/129366975/52fd5d2f-0f25-4317-915b-befd12f76160)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dulitha-harasara-40b93322b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dulitha harasara" height="30" width="40" /></a>
