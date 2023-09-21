@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dulitha Harasara</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dulithaharasara&label=Profile%20views&color=0e75b6&style=flat" alt="dulithaharasara" /> </p>
+
 🔭 I am a Software Engineering undergraduate student at the Open University of Sri Lanka.
 <br>
 🌱 I’m currently learning web and mobile application development
 <br>
 📫 How to reach me <a href = 'dulithaharasara@gmail.com'>dulithaharasara@gmail.com</a>
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dulithaharasara&label=Profile%20views&color=0e75b6&style=flat" alt="dulithaharasara" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
