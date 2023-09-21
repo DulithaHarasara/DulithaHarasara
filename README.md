@@ -9,7 +9,8 @@
 <br>
 
 
-![giphy](https://github.com/DulithaHarasara/DulithaHarasara/assets/129366975/7152fcc7-7a41-4432-90d9-882235438b84)
+
+![giphy (1)](https://github.com/DulithaHarasara/DulithaHarasara/assets/129366975/52fd5d2f-0f25-4317-915b-befd12f76160)
 
 
 
